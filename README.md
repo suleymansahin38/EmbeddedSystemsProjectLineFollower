@@ -4,16 +4,16 @@ Ahmet Serdar EKER
 Department of Electrical and Electronics Engineering
 Abdullah Gül University 
 
-Muhammed Enes ÜNAL
-Department of Electrical and Electronics Engineering
+Muhammed Enes ÜNAL,
+Department of Electrical and Electronics Engineering,
 Abdullah Gül University 
 
-Osman Samet ŞENOL
-Department of Electrical and Electronics Engineering
+Osman Samet ŞENOL,
+Department of Electrical and Electronics Engineering,
 Abdullah Gül University 
 
-Süleyman ŞAHİN
-Department of Electrical and Electronics Engineering
+Süleyman ŞAHİN,
+Department of Electrical and Electronics Engineering,
 Abdullah Gül University 
 
  
